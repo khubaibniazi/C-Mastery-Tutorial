@@ -1,0 +1,28 @@
+# Compiled programs
+*.exe
+*.out
+*.o
+snake
+tictactoe
+maze
+hangman
+bank
+students
+matrix
+adventure
+sudoku
+minishell
+crypt
+life
+typing
+calculator
+
+# Data files created while running the programs
+accounts.dat
+transactions.txt
+students.dat
+highscore.txt
+typing_best.txt
+
+# Editor files
+.vscode/
